@@ -29,8 +29,6 @@ Hi there! Trsh. I'm passionate about technology as a representation of reality a
 - Testing
 #
 ## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TrshDesigns&show_icons=true&theme=radical)
 #
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrshDesigns&layout=compact&theme=radical)
