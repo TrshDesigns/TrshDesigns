@@ -6,8 +6,7 @@ Hi there! Trsh. I'm passionate about technology as a representation of reality a
 
 ## Current Focus
 - 💡 Exploring the intersection of AI, web technologies, and user experience
-
-🚧 Many of my projects are currently stored locally and will be uploaded progressively. Stay tuned for whats to come
+- #
 ## Languages & Skills
 - JavaScript/TypeScript
 - HTML/CSS/SCSS
