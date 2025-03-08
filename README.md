@@ -15,7 +15,7 @@ Hi there! Trsh. I'm passionate about technology as a representation of reality a
 - Artificial Intelligence and Prompt Engineering
 #
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrshDesigns&layout=compact&theme=radical) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrshDesigns&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TrshDesigns&theme=radical)
 ## Connect With Me
 - 🌐 Lathyuslab (Main research and communication site): [trshdesigns.github.io](https://trshdesigns.github.io)
