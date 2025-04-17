@@ -1,7 +1,3 @@
-### HI! (\ |) '---' (| /)
-
-## Introduction
-
 Hi there! Trsh. I'm passionate about technology as a representation of reality and a means to modify it. I think deeply about the future and want to inspire others who share my excitement
 
 
