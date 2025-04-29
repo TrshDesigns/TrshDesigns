@@ -2,8 +2,8 @@ Hi there! Trsh. I'm passionate about technology as a representation of reality a
 
 
 ## Languages & Skills
-- JavaScript/TypeScript
-- HTML/CSS/SCSS
+- JavaScript
+- HTML/CSS
 - Python
 - Data Science tools
 - Artificial Intelligence and Prompt Engineering
