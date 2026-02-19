@@ -38,7 +38,11 @@ Curious since I was born.
 
 <br/>
 
-Currently giving talks and doing **public speaking** under the community of **Aillumina** on topics that sit at the edge of understanding and developing in creativity and information theory
+Currently giving talks and doing **public speaking** under the community of <a href="https://aillumina.neocities.org" target="_blank">
+  <img src="https://aillumina.neocities.org/android-chrome-192x192.png" height="28" style="vertical-align:middle;" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AILLUMINA-COMMUNITY-39ff14?style=for-the-badge&labelColor=0a0a0f&color=39ff14" /> Aillumina
+</a> on topics that sit at the edge of understanding and developing in creativity and information theory
 
 
 > *The goal is always to make complex ideas look simple and accessible*
