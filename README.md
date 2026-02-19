@@ -82,9 +82,6 @@ topics = [
 ### `> STATS.dat`
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TrshDesigns&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0f&title_color=39ff14&icon_color=b44fff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrshDesigns&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0f&title_color=39ff14&text_color=c9d1d9" />
 
   <br/><br/>
 
