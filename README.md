@@ -79,25 +79,6 @@ topics = [
 
 ---
 
-### `> STATS.dat`
-
-<div align="center">
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com?user=TrshDesigns&theme=github-dark-blue&hide_border=true&background=0a0a0f&stroke=39ff14&ring=b44fff&fire=39ff14&currStreakLabel=c9d1d9&sideLabels=39ff14&dates=8B949E" />
-</div>
-
----
-
-### `> ACTIVITY.grid`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrshDesigns&bg_color=0a0a0f&color=39ff14&line=b44fff&point=39ff14&area=true&area_color=b44fff&hide_border=true" />
-</div>
-
----
-
 ### `> SIGNAL.end`
 
 <div align="center">
