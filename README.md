@@ -73,9 +73,6 @@ On topics that sit at the edge of understanding — developing in creativity and
 <img src="https://img.shields.io/badge/CSS3-39ff14?style=for-the-badge&logo=css3&logoColor=0a0a0f" />
 &nbsp;
 <img src="https://img.shields.io/badge/Python-b44fff?style=for-the-badge&logo=python&logoColor=white" />
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/Data%20Science-39ff14?style=for-the-badge&logo=jupyter&logoColor=0a0a0f" />
 &nbsp;
 <img src="https://img.shields.io/badge/Generative%20AI-b44fff?style=for-the-badge&logo=openai&logoColor=white" />
