@@ -10,7 +10,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  SYSTEM INITIALIZED  //  UNIT-TRSH ONLINE  //  TOKYO-03 NET     │
+│  SYSTEM INITIALIZED  //  UNIT-TRSH ONLINE  //  URUGUAY-003-NET  │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -30,10 +30,13 @@ Curious since I was born.
 
 ### `> SPEAKING.log`
 
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/COMMUNITY-AILLUMINA-39ff14?style=for-the-badge&labelColor=0a0a0f&color=39ff14" />
+  &nbsp;
   <img src="https://img.shields.io/badge/STATUS-ACTIVE_SPEAKER-b44fff?style=for-the-badge&labelColor=0a0a0f&color=b44fff" />
-</p>
+</div>
+
+<br/>
 
 Currently giving talks and doing **public speaking** under the community of **Aillumina** on topics that sit at the edge of understanding:
 
@@ -46,45 +49,55 @@ topics = [
 ]
 ```
 
-> *The goal is always the same: make complex ideas feel alive.*
+> *The goal is always the same: make complex ideas look simple.*
 
 ---
 
 ### `> STACK.sys`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,figma&theme=dark&perline=5" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-39ff14?style=flat-square&logo=javascript&logoColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/Python-b44fff?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML%2FCSS-39ff14?style=flat-square&logo=html5&logoColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/Data%20Science-b44fff?style=flat-square&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20Tools-39ff14?style=flat-square&logo=openai&logoColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/Art%20%26%20Design-b44fff?style=flat-square&logo=figma&logoColor=white" />
-</p>
+<!-- Row 1: Core Dev -->
+<img src="https://img.shields.io/badge/JavaScript-39ff14?style=for-the-badge&logo=javascript&logoColor=0a0a0f" />
+&nbsp;
+<img src="https://img.shields.io/badge/HTML5-b44fff?style=for-the-badge&logo=html5&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/CSS3-39ff14?style=for-the-badge&logo=css3&logoColor=0a0a0f" />
+&nbsp;
+<img src="https://img.shields.io/badge/Python-b44fff?style=for-the-badge&logo=python&logoColor=white" />
+
+<br/><br/>
+
+<!-- Row 2: Creative & AI -->
+<img src="https://img.shields.io/badge/Data%20Science-39ff14?style=for-the-badge&logo=jupyter&logoColor=0a0a0f" />
+&nbsp;
+<img src="https://img.shields.io/badge/Generative%20AI-b44fff?style=for-the-badge&logo=openai&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Art%20%26%20Design-39ff14?style=for-the-badge&logo=adobe&logoColor=0a0a0f" />
+
+</div>
 
 ---
 
 ### `> STATS.dat`
 
-<p align="center">
+<div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TrshDesigns&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0f&title_color=39ff14&icon_color=b44fff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  &nbsp;
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrshDesigns&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0f&title_color=39ff14&text_color=c9d1d9" />
-</p>
 
-<p align="center">
+  <br/><br/>
+
   <img src="https://streak-stats.demolab.com?user=TrshDesigns&theme=github-dark-blue&hide_border=true&background=0a0a0f&stroke=39ff14&ring=b44fff&fire=39ff14&currStreakLabel=c9d1d9&sideLabels=39ff14&dates=8B949E" />
-</p>
+</div>
 
 ---
 
 ### `> ACTIVITY.grid`
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrshDesigns&bg_color=0a0a0f&color=39ff14&line=b44fff&point=39ff14&area=true&area_color=b44fff&hide_border=true" />
-</p>
+</div>
 
 ---
 
@@ -97,7 +110,7 @@ topics = [
   if all this chaos resounds with you —
   let's connect and create.
   always open to new projects.
-  the crazier the better.
+  the more ambitious the better.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
