@@ -1,77 +1,109 @@
-<!-- Header wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=160&section=header&text=Hey%2C%20I'm%20Trsh%20👾&fontSize=42&fontColor=c9d1d9&fontAlignY=40&animation=fadeIn" />
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:0d0d1a,70:0a1a0a,100:1a0a2e&height=200&section=header&text=EZEQUIEL%20%2F%2F%20TRSH&fontSize=48&fontColor=39ff14&fontAlignY=45&desc=developer%20%7C%20creative%20%7C%20speaker&descSize=16&descFontColor=b44fff&descAlignY=65&animation=fadeIn" />
 
-<!-- Typing SVG -->
+<!-- Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Technology+as+a+mirror+of+reality.;Code+as+a+means+to+reshape+it.;Building+the+future%2C+one+line+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=technology+as+a+representation+of+reality.;code+as+a+means+to+modify+it.;information+is+the+substrate+of+everything.;curious+since+birth.+still+going." />
+</p>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  SYSTEM INITIALIZED  //  UNIT-TRSH ONLINE  //  TOKYO-03 NET     │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+### `> ABOUT.exe`
+
+Hi — I'm **Ezequiel**, a developer and creative who thinks deeply about the future and technology as a form to modify it.
+
+My will goes naturally toward the intersection of **code**, **design**, and new technological advancements. Focused on the fundamentals of **information** and all the amazing things we can build by applying them more and more into the world.
+
+Curious since I was born.
+
+---
+
+### `> SPEAKING.log`
+
+<p>
+  <img src="https://img.shields.io/badge/COMMUNITY-AILLUMINA-39ff14?style=for-the-badge&labelColor=0a0a0f&color=39ff14" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_SPEAKER-b44fff?style=for-the-badge&labelColor=0a0a0f&color=b44fff" />
+</p>
+
+Currently giving talks and doing **public speaking** under the community of **Aillumina** on topics that sit at the edge of understanding:
+
+```python
+topics = [
+    "Creativity",
+    "Information Theory",
+    "Probabilities",
+    "The future — in all its forms"
+]
+```
+
+> *The goal is always the same: make complex ideas feel alive.*
+
+---
+
+### `> STACK.sys`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,figma&theme=dark&perline=5" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-39ff14?style=flat-square&logo=javascript&logoColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Python-b44fff?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-39ff14?style=flat-square&logo=html5&logoColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Data%20Science-b44fff?style=flat-square&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20Tools-39ff14?style=flat-square&logo=openai&logoColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Art%20%26%20Design-b44fff?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-> *"Technology is not just a tool — it's a representation of reality and a means to modify it."*
-
-I'm **Trsh** — a developer who thinks deeply about the future and what we're building toward. I'm drawn to the intersection of **code**, **design**, and **emerging paradigms**. If you're excited about what's next, we're probably already aligned.
-
-- 🔭 Exploring the edges of **generative AI** and **data-driven systems**
-- 🌱 Always learning — currently fascinated by how models encode and reconstruct the world
-- 💬 Let's talk about the future of tech, tools, and ideas that matter
-- ⚡ I believe the best code is the kind that changes how people perceive what's possible
-
----
-
-## 🛠️ Languages & Tools
+### `> STATS.dat`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,svelte&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TrshDesigns&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0f&title_color=39ff14&icon_color=b44fff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrshDesigns&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0f&title_color=39ff14&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-Tools-informational?style=flat&logo=anaconda&logoColor=white&color=1a1a2e&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Generative%20AI-Explorer-informational?style=flat&logo=openai&logoColor=white&color=1a1a2e&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://streak-stats.demolab.com?user=TrshDesigns&theme=github-dark-blue&hide_border=true&background=0a0a0f&stroke=39ff14&ring=b44fff&fire=39ff14&currStreakLabel=c9d1d9&sideLabels=39ff14&dates=8B949E" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### `> ACTIVITY.grid`
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TrshDesigns&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrshDesigns&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TrshDesigns&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8B949E" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrshDesigns&bg_color=0a0a0f&color=39ff14&line=b44fff&point=39ff14&area=true&area_color=b44fff&hide_border=true" />
 </p>
 
 ---
 
-## 🌌 Activity Graph
+### `> SIGNAL.end`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrshDesigns&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&area_color=1f6feb&hide_border=true" />
-</p>
+<div align="center">
 
----
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  if all this chaos resounds with you —
+  let's connect and create.
+  always open to new projects.
+  the crazier the better.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
-## 🏆 Trophies
+<img src="https://komarev.com/ghpvc/?username=TrshDesigns&color=39ff14&style=flat-square&label=//+CONNECTIONS+LOGGED" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TrshDesigns&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
+</div>
 
----
-
-## 👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TrshDesigns&color=58A6FF&style=flat-square&label=Profile+Views" />
-</p>
-
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0a2e,40:0a1a0a,70:0d0d1a,100:0a0a0f&height=120&section=footer&text=//+UNIT+OFFLINE&fontSize=20&fontColor=39ff14&fontAlignY=55" />
