@@ -10,4 +10,4 @@ Hi there! Trsh. I'm passionate about technology as a representation of reality a
 #
 
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrshDesigns&layout=compact&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trshdesigns)](https://github.com/trshdesigns/github-readme-stats)
