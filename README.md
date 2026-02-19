@@ -1,6 +1,8 @@
 <!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:0d0d1a,70:0a1a0a,100:1a0a2e&height=200&section=header&text=EZEQUIEL%20%2F%2F%20TRSH&fontSize=48&fontColor=39ff14&fontAlignY=45&desc=developer%20%7C%20creative%20%7C%20speaker&descSize=16&descFontColor=b44fff&descAlignY=65&animation=fadeIn" />
 
+<br/>
+
 <!-- Typing -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=technology+as+a+representation+of+reality.;code+as+a+means+to+modify+it.;information+is+the+substrate+of+everything.;curious+since+birth.+still+going." />
@@ -31,19 +33,18 @@ Curious since I was born.
 ### `> SPEAKING.log`
 
 <div align="center">
-  <img src="https://img.shields.io/badge/COMMUNITY-AILLUMINA-39ff14?style=for-the-badge&labelColor=0a0a0f&color=39ff14" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE_SPEAKER-b44fff?style=for-the-badge&labelColor=0a0a0f&color=b44fff" />
+
+<img src="https://img.shields.io/badge/COMMUNITY-AILLUMINA-39ff14?style=for-the-badge&labelColor=0a0a0f&color=39ff14" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/STATUS-ACTIVE_SPEAKER-b44fff?style=for-the-badge&labelColor=0a0a0f&color=b44fff" />
+
 </div>
 
 <br/>
 
-Currently giving talks and doing **public speaking** under the community of <a href="https://aillumina.neocities.org" target="_blank">
-  <img src="https://aillumina.neocities.org/android-chrome-192x192.png" height="28" style="vertical-align:middle;" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AILLUMINA-COMMUNITY-39ff14?style=for-the-badge&labelColor=0a0a0f&color=39ff14" /> Aillumina
-</a> on topics that sit at the edge of understanding and developing in creativity and information theory
+Currently giving talks and doing **public speaking** under the community of **[Aillumina](https://aillumina.neocities.org)** on topics that sit at the edge of understanding — developing in creativity and information theory.
 
+<br/>
 
 > *The goal is always to make complex ideas look simple and accessible*
 
@@ -53,7 +54,6 @@ Currently giving talks and doing **public speaking** under the community of <a h
 
 <div align="center">
 
-<!-- Row 1: Core Dev -->
 <img src="https://img.shields.io/badge/JavaScript-39ff14?style=for-the-badge&logo=javascript&logoColor=0a0a0f" />
 &nbsp;
 <img src="https://img.shields.io/badge/HTML5-b44fff?style=for-the-badge&logo=html5&logoColor=white" />
@@ -61,6 +61,8 @@ Currently giving talks and doing **public speaking** under the community of <a h
 <img src="https://img.shields.io/badge/CSS3-39ff14?style=for-the-badge&logo=css3&logoColor=0a0a0f" />
 &nbsp;
 <img src="https://img.shields.io/badge/Python-b44fff?style=for-the-badge&logo=python&logoColor=white" />
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Data%20Science-39ff14?style=for-the-badge&logo=jupyter&logoColor=0a0a0f" />
 &nbsp;
@@ -85,9 +87,13 @@ Currently giving talks and doing **public speaking** under the community of <a h
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=TrshDesigns&color=39ff14&style=flat-square&label=//+CONNECTIONS+LOGGED" />
 
 </div>
+
+<br/>
 
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0a2e,40:0a1a0a,70:0d0d1a,100:0a0a0f&height=120&section=footer&text=//+UNIT+OFFLINE&fontSize=20&fontColor=39ff14&fontAlignY=55" />
