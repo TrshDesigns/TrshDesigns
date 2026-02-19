@@ -38,18 +38,10 @@ Curious since I was born.
 
 <br/>
 
-Currently giving talks and doing **public speaking** under the community of **Aillumina** on topics that sit at the edge of understanding:
+Currently giving talks and doing **public speaking** under the community of **Aillumina** on topics that sit at the edge of understanding and developing in creativity and information theory
 
-```python
-topics = [
-    "Creativity",
-    "Information Theory",
-    "Probabilities",
-    "The future — in all its forms"
-]
-```
 
-> *The goal is always the same: make complex ideas look simple.*
+> *The goal is always to make complex ideas look simple and accessible*
 
 ---
 
@@ -66,9 +58,6 @@ topics = [
 &nbsp;
 <img src="https://img.shields.io/badge/Python-b44fff?style=for-the-badge&logo=python&logoColor=white" />
 
-<br/><br/>
-
-<!-- Row 2: Creative & AI -->
 <img src="https://img.shields.io/badge/Data%20Science-39ff14?style=for-the-badge&logo=jupyter&logoColor=0a0a0f" />
 &nbsp;
 <img src="https://img.shields.io/badge/Generative%20AI-b44fff?style=for-the-badge&logo=openai&logoColor=white" />
