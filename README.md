@@ -6,7 +6,7 @@ Hi there! Trsh. I'm passionate about technology as a representation of reality a
 - HTML/CSS
 - Python
 - Data Science tools
-- Artificial Intelligence and Prompt Engineering
+- Generative tools 
 #
 
 ## GitHub Stats
